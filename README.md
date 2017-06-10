@@ -13,7 +13,7 @@ The **>eR-Biostat** initiative introduces a new, R based, learning system, the m
 **Follow us in FACEBOOK:** https://www.facebook.com/ER-BioStat-1463845487001786/
 
 ## Interested to contribute a course ?
-Contact Ziv Shkedy ziv.shkedy@uhasselt.be
+Contact  us by email erbiostat@gmail.com
 
 ## Interested to  use the materials in your university ?
-Contact Ziv Shkedy ziv.shkedy@uhasselt.be
+Contact us by email erbiostat@gmail.com
