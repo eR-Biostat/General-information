@@ -12,6 +12,8 @@ The **>eR-Biostat** initiative introduces a new, R based, learning system, the m
 
 **Follow us in FACEBOOK:** https://www.facebook.com/ER-BioStat-1463845487001786/
 
+**Follow us in Tweeter:** @erbiostat
+
 ## Interested to contribute a course ?
 Contact  us by email erbiostat@gmail.com
 
