@@ -1,5 +1,4 @@
-# The >eR-Biostat initative
-## Making R based education materials assessable for all
+# The >eR-Biostat initative: Making R based education materials assessable for all
 One of the main problems in high education at a master level in developing countries is the lack of high quality course materials for courses in master programs. The **>eR-Biostat**  initiative is focused on masters programs in Biostatistics/Statistics and aim to develop new E-learning system for courses at a master level.
 
 The E-learning system, developed as a part of the **>eR-Biostat**  initiative, offers free online course materials for master students in biostatistics/statistics in developing countries. For each course, the materials are publicly available and consist of several type of course materials: 
@@ -19,3 +18,13 @@ Contact  us by email erbiostat@gmail.com
 
 ## Interested to  use the materials in your university ?
 Contact us by email erbiostat@gmail.com
+
+# Our philosophy
+Our Github page provides courses in statistics from different sources.  As such, it serves as  hub page for different course developers  so our users, both teachers and students, can find their courses in our Github page. Our  main target is to make  R based education materials assessable for all. We develop education materials in different levels:
+* Introductory courses.
+* Under graduate courses.
+* Master level courses.
+All courses are available for free to download, some are developed as offline courses (see for the example the course  ** Introduction to R** in the introductory course cluster) and some are developed as online  courses (see for example the course **Linear models** in the under graduate course clusters).
+All courses are:
+*Free.
+*Ready to download and use in the class.
