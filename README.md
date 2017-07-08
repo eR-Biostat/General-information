@@ -25,7 +25,7 @@ Our Github page provides courses in statistics from different sources.  As such,
 * Under graduate courses.
 * Master level courses.
 
-All courses are available for free to download, some are developed as offline courses (see for the example the course  ** Introduction to R** in the introductory course cluster) and some are developed as online  courses (see for example the course **Linear models** in the under graduate course clusters).
+All courses are available for free to download, some are developed as offline courses (see for the example the course **Introduction to R** in the introductory course cluster) and some are developed as online  courses (see for example the course **Linear models** in the under graduate course clusters).
 All courses are:
-*Free.
-*Ready to download and use in the class.
+* Free.
+* Ready to download and use in the class.
