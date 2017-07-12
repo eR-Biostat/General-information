@@ -1,7 +1,7 @@
 # The >eR-Biostat initative: Making R based education materials assessable for all
-One of the main problems in high education at a master level in developing countries is the lack of high quality course materials for courses in master programs. The **>eR-Biostat**  initiative is focused on masters programs in Biostatistics/Statistics and aim to develop new E-learning system for courses at a master level.
+One of the main problems in high education at both under graduate and master levels in developing countries is the lack of high quality , R based, course materials for courses in education programs. The **>eR-Biostat**  initiative is focused on educaion programs (both under graduate and master) in Biostatistics/Statistics and aim to develop new E-learning system for courses at a master level.
 
-The E-learning system, developed as a part of the **>eR-Biostat**  initiative, offers free online course materials for master students in biostatistics/statistics in developing countries. For each course, the materials are publicly available and consist of several type of course materials: 
+The E-learning system, developed as a part of the **>eR-Biostat**  initiative, offers free online course materials for under graduate and master students in biostatistics/statistics in developing countries. For each course, the materials are publicly available and consist of several type of course materials: 
 * Notes for the course.
 * Slides for the course.
 * R programs, ready to use, which contain all data and R code for the all examples and illustrations discussed in the course.
