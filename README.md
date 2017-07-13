@@ -1,5 +1,5 @@
 # The >eR-Biostat initative: Making R based education materials assessable for all
-One of the main problems in high education at both under graduate and master levels in developing countries is the lack of high quality , R based, course materials for courses in education programs. The **>eR-Biostat**  initiative is focused on educaion programs (both under graduate and master) in Biostatistics/Statistics and aim to develop new E-learning system for courses at a master level.
+One of the main problems in high education at both under graduate and master levels in developing countries is the lack of high quality , R based, course materials for courses in education programs. The **>eR-Biostat**  initiative is focused on educaion programs (both under graduate and master) in Biostatistics/Statistics and aim to develop new E-learning system for courses at different education  level.
 
 The E-learning system, developed as a part of the **>eR-Biostat**  initiative, offers free online course materials for under graduate and master students in biostatistics/statistics in developing countries. For each course, the materials are publicly available and consist of several type of course materials: 
 * Notes for the course.
@@ -25,7 +25,7 @@ Our Github page provides courses in statistics from different sources.  As such,
 * Under graduate courses.
 * Master level courses.
 
-All courses are available for free to download, some are developed as offline courses (see for the example the course **Introduction to R** in the introductory course cluster) and some are developed as online  courses (see for example the course **Linear models** in the under graduate course cluster).
+All courses are available for free to download, some are developed as **offline courses** (see for the example the course **Introduction to R** in the introductory course cluster) and some are developed as **online  courses** (see for example the course **Linear models** in the under graduate course cluster).
 All courses are:
 * Free.
 * Ready to download and use in the class.
