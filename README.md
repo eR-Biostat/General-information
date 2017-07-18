@@ -4,10 +4,11 @@ One of the main problems in high education at both under graduate and master lev
 
 # The new E-learning system 
 
-The E-learning system, developed as a part of the **>eR-Biostat**  initiative, offers free online course materials for under graduate and master students in biostatistics/statistics in developing countries. For each course, the materials are publicly available and consist of several types of course materials: 
+The E-learning system, developed as a part of the **>eR-Biostat**  initiative, offers free online course materials for under graduate and master students in biostatistics/statistics in developing countries. The materials materials for the courses are publicly available and consist of several types of course materials: 
 * Notes for the course.
 * Slides for the course.
 * R programs, ready to use, which contain all data and R code for the all examples and illustrations discussed in the course.
+* YouTube turorials.
 * Homework assignments and exams.
 
 # Why R based new E-learning system ?
@@ -25,9 +26,9 @@ Contact  us by email erbiostat@gmail.com
 Contact us by email erbiostat@gmail.com
 
 # Our philosophy
-Our Github page provides courses in statistics from different sources.  As such, it serves as  hub page for different course developers  so our users, both teachers and students, can find their courses in our Github page. Our  main target is to make  R based education materials assessable for all. We develop education materials in different levels:
+Our Github page provides courses in statistics from different sources.  As such, it serves as a hub page for different course developers  so our users, both teachers and students, can find their courses in our Github page. Our  main target is to make R based education materials assessable for all. We develop education materials in different levels:
 * Introductory courses.
-* Under graduate courses.
+* Basic (under graduate) courses.
 * Master level courses.
 
 All courses are available for free to download, some are developed as **offline courses** (see for the example the course **Introduction to R** in the introductory course cluster) and some are developed as **online  courses** (see for example the course **Linear models** in the under graduate course cluster).
