@@ -2,6 +2,9 @@
 # What is all about ?
 One of the main problems in high education at both under graduate and master levels in developing countries is the lack of high quality , **R based**,  materials for courses in education programs.  The **>eR-Biostat**  initiative is focused on education programs (both under graduate and master) in Biostatistics/Statistics and aim to develop new E-learning system for courses at different education  level.
 
+# Our Approach
+We believe that accessibility to free high quality education materials is crucial to ensure a high standard in education.  We offer an “open sources” education materials in statistics. Everybody (teachers and students) is able download and use the courses from free.  
+
 # The new E-learning system 
 
 The E-learning system, developed as a part of the **>eR-Biostat**  initiative, offers free online course materials for under graduate and master students in biostatistics/statistics in developing countries. The materials materials for the courses are publicly available and consist of several types of course materials: 
