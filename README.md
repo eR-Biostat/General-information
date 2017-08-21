@@ -31,7 +31,7 @@ Contact us by email erbiostat@gmail.com
 # Our philosophy
 Our Github page provides courses in statistics from different sources.  As such, it serves as a hub page for different course developers  so our users, both teachers and students, can find their courses in our Github page. Our  main target is to make R based education materials assessable for all. We develop education materials in different levels:
 * Introductory courses.
-* Basic (under graduate) courses.
+* Basic (undergraduate) courses.
 * Master level courses.
 
 All courses are available for free to download, some are developed as **offline courses** (see for the example the course **Introduction to R** in the introductory course cluster) and some are developed as **online  courses** (see for example the course **Linear models** in the under graduate course cluster).
